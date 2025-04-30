@@ -1,7 +1,3 @@
 # VFX_portfolio
 
-<div><video controls src="
-
-https://github.com/user-attachments/assets/2d79229d-4303-4963-ad40-42ae4f60733b
-
-" muted="false"></video></div>
+![https://github.com/fumikiri/SlidingModeControlMatlab/blob/master/GIF/lq_vs_smc_animation.gif](https://github.com/MatsubaraJotaro/VFX_portfolio/blob/f9b70558dba18e8089db9f9cd1d53fe91905e972/Samples/elementbullet.gif?raw=true)
